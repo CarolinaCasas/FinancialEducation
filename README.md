@@ -1,5 +1,5 @@
 ## Autoras ✒️
-Purpurina Software Factory
+:purple_heart:Purpurina Software Factory...:purple_heart:
 Ana Sofía Moreno
 * [GitHub](https://github.com/anasofiamoreno)
 * [Linkedin](http://www.dropwizard.io/1.0.2/docs/) 
