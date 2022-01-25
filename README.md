@@ -26,9 +26,9 @@ Estudiantes y/o trabajadores
 *Home
  <img src= "https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/homeMD.png" alt="home" width="600" />
  *Quiz
- ![Quiz](https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/quizMD.png)
+  <img src= "https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/quizMD.png" alt="quiz" width="600" />
  *Courses
- ![Courses](https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/cursosMD.png)
+  <img src= "https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/cursosMD.png" alt="courses" width="600" />
 ## Construido con 🛠️
 ### Framework:
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> [Angular](https://angular.io/) 
