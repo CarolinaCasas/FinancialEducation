@@ -26,7 +26,7 @@ Estudiantes y/o trabajadores
 *Home
  ![Home](financialeducation\src\assets\img\homeMD.png)
  *Quiz
- ![Quiz](financialeducation\src\assets\img\quizMD.png)
+ ![Quiz](https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/quizMD.png)
  *Courses
  ![Courses](financialeducation\src\assets\img\cursosMD.png)
 ## Construido con 🛠️
