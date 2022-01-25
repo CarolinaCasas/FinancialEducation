@@ -24,9 +24,11 @@ Estudiantes y/o trabajadores
  [prototipo de alto nivel](https://www.figma.com/file/GxE0a2uM1ISEVsq2hGJz9L/Untitled?node-id=0%3A1)
 
 * Home
- <img src= "https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/homeMD.png" alt="home" width="600" />
+ <img src= "https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/homeMD.png" alt="home" width="600" />  
+ 
 * Quiz
-  <img src= "https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/quizMD.png" alt="quiz" width="600" />
+  <img src= "https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/quizMD.png" alt="quiz" width="600" />  
+  
 * Courses
   <img src= "https://github.com/CarolinaCasas/FinancialEducation/blob/quizcaro/financialeducation/src/assets/img/cursosMD.png" alt="courses" width="600" />  
   
